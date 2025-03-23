@@ -1,0 +1,46 @@
+html,
+body {
+  height: 100%;
+  margin: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32'><text x='0' y='24' font-size='24'>🥐</text></svg>");
+  background-repeat: repeat;
+  background-size: 40px;
+}
+
+
+body {
+  background-color: #fff8f0;
+}
+
+
+.container {
+  background-color: #fff8f0;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 60px auto;
+  max-width: 800px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  color: #444;
+  text-align: center;
+}
+
+.croissant-photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+}
+
+a {
+  color: #444;
+  padding: 5px;
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+
